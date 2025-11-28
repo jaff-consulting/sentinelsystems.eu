@@ -15,7 +15,7 @@ Sentinel Systems is a trading name of JAFF Consulting B.V., delivering agentic A
 
 This site is hosted on GitHub Pages and available at:
 - https://sentinalsystems.eu (custom domain)
-- https://jaff-consulting.github.io/sentinel-systems-site (GitHub Pages URL)
+- https://jaff-consulting.github.io/sentinelsystems.eu (GitHub Pages URL)
 
 ## Setup
 
